@@ -1,5 +1,5 @@
 #   
-# Coding in times of COVID-19.
+
 # Hecho por Jonathan Friz B. jfriz[@]protonmail.com
 
 
